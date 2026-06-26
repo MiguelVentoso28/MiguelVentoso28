@@ -5,7 +5,6 @@
 
 🤖 Robotics Systems Engineering Intern @ **Smart Mini Factory Lab** (Bolzano, Italy)  
 🎓 B.Sc. Mechanical Engineering · B.Sc. Physics (in progress) · Specialist in Advanced Manufacturing  
-🌍 Based in Spain · Open to relocation in **DACH region**  
 🗣️ Spanish (native) · English (fluent) · German (B2.1)
 
 ---
