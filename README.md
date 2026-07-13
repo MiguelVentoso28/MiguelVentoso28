@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 # Miguel Ventoso Suescun
 ### Mechanical Engineer · ROS2 · MoveIt 2 · Nav2 · MuJoCo · Isaac Sim
 
----
-
-🤖 Robotics Systems Engineering Intern @ **Smart Mini Factory Lab** (Bolzano, Italy)  
+--
 🎓 B.Sc. Mechanical Engineering · B.Sc. Physics (in progress) · Specialist in Advanced Manufacturing  
 🗣️ Spanish (native) · English (fluent) · German (B2.1)
 
